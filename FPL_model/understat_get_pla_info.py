@@ -11,6 +11,8 @@ import seaborn as sns
 import pandas as pd
 import yaml
 
+import utils
+
 #%%
 # this is required to allow nested run of asyncio i.e. to run it in a loop
 nest_asyncio.apply()
@@ -20,9 +22,9 @@ with open('params.yml') as file:
   params= yaml.safe_load(file)
 
 #%%
-home = "/Users/regesterdaniel/x_code/FPL_model/understat"
+home = "/Users/regesterdaniel/x_code/FPL_model/"
 out_folder = "pla_info"
-out_path = os.path.join(home, out_folder)
+out_path = home
 if os.path.isdir(out_path) != True:
     os.mkdir(out_path)
 
@@ -52,13 +54,14 @@ for year in years:
     loop = asyncio.get_event_loop()
     loop.run_until_complete(main())
 
+#%%
+
+player_names = utils.strip_player_names(player_names)
+
 player_info_understat = {player_names[i]: player_ids[i] for i in range(len(player_names))}
 # output data
-fid_out = os.path.join(out_path, "players_allyears" + ".json")
+fid_out = os.path.join(out_path, "players_allyears_understat" + ".json")
 json.dump(player_info_understat, open(fid_out, 'w' ), ensure_ascii=True, indent = 4)
 
+#%%
 
-# %%
-
-
-# %%

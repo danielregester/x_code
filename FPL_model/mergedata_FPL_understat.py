@@ -25,7 +25,7 @@ params = utils.open_yaml(home, fid)
 #%%
 path_FPLdata = params["path_FPLdata"]
 path_understat_data = params["path_understat"]
-players = list(json.load(open('players_allyears.json')).keys())
+players = list(json.load(open('players_allyears_understat.json')).keys())
 
 #%%
 # * logic for the algo is as follows:
@@ -35,14 +35,9 @@ players = list(json.load(open('players_allyears.json')).keys())
 # ! ensure suitable way to deal with nan values
 
 #%%
-def read_FPLdata_paths(paths_FPLdata):
-    dfs = []
-    for path in paths_FPLdata:
-        dfs.append(pd.read_csv(path))
 
-    player_FPLdata = pd.concat(dfs, axis = 0, ignore_index = True)
-    
-    return player_FPLdata
+
+
 
 #%%
 
@@ -61,13 +56,13 @@ for i in tqdm(range(len(players))):
     try:
         paths_FPLdata = [path for path in glob.glob(path_FPLdata+"/**/**/*"+player_split[0]+"*"+player_split[1]+"*/gw.csv")]
         #process FPLdata
-        player_FPLdata = read_FPLdata_paths(paths_FPLdata)
+        player_FPLdata = utils.read_FPLdata_paths(paths_FPLdata)
     except ValueError:
         try:
             #deal with case the surname and name are wrong way round
             paths_FPLdata = [path for path in glob.glob(path_FPLdata+"/**/**/*"+player_split[1]+"*"+player_split[0]+"*/gw.csv")]
             #process FPLdata
-            player_FPLdata = read_FPLdata_paths(paths_FPLdata)
+            player_FPLdata = utils.read_FPLdata_paths(paths_FPLdata)
         except ValueError:
             #if above doesnt work then will ignore player as is typically those who have not played
             print('not doing player: ' + player)
@@ -81,6 +76,7 @@ for i in tqdm(range(len(players))):
         except ValueError:
             #if above doesnt work then will ignore player as is typically those who have not played
             print('not doing player: ' + player)
+            players_failed.append(player)
     
 
     _len = len(player_FPLdata['kickoff_time'])
