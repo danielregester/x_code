@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "48",
+        "position": "Sub",
+        "h_team": "Everton",
+        "a_team": "Burnley",
+        "h_goals": "1",
+        "a_goals": "2",
+        "date": "2021-03-13",
+        "id": "14707",
+        "season": "2020",
+        "roster_id": "456556",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0",
+        "xGBuildup": "0"
+    }
+]

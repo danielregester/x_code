@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.1034446656703949",
+        "time": "4",
+        "position": "Sub",
+        "h_team": "Crystal Palace",
+        "a_team": "Sheffield United",
+        "h_goals": "2",
+        "a_goals": "0",
+        "date": "2021-01-02",
+        "id": "14604",
+        "season": "2020",
+        "roster_id": "439131",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.1034446656703949",
+        "xGChain": "0.11183098703622818",
+        "xGBuildup": "0.008386322297155857"
+    }
+]

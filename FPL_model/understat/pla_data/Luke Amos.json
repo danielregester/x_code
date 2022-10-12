@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "1",
+        "position": "Sub",
+        "h_team": "Newcastle United",
+        "a_team": "Tottenham",
+        "h_goals": "1",
+        "a_goals": "2",
+        "date": "2018-08-11",
+        "id": "9198",
+        "season": "2018",
+        "roster_id": "258847",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0",
+        "xGBuildup": "0"
+    }
+]

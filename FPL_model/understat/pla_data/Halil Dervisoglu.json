@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "2",
+        "xG": "0.06689238548278809",
+        "time": "5",
+        "position": "Sub",
+        "h_team": "Leicester",
+        "a_team": "Brentford",
+        "h_goals": "2",
+        "a_goals": "2",
+        "date": "2022-08-07",
+        "id": "18210",
+        "season": "2022",
+        "roster_id": "539848",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.06689238548278809",
+        "xGChain": "0.06689238548278809",
+        "xGBuildup": "0"
+    }
+]

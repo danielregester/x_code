@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "1",
+        "position": "Sub",
+        "h_team": "Southampton",
+        "a_team": "Arsenal",
+        "h_goals": "3",
+        "a_goals": "2",
+        "date": "2018-12-16",
+        "id": "9360",
+        "season": "2018",
+        "roster_id": "278654",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0",
+        "xGBuildup": "0"
+    }
+]

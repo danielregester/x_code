@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "1",
+        "position": "Sub",
+        "h_team": "Brentford",
+        "a_team": "Arsenal",
+        "h_goals": "0",
+        "a_goals": "3",
+        "date": "2022-09-18",
+        "id": "18280",
+        "season": "2022",
+        "roster_id": "551064",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0",
+        "xGBuildup": "0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "35",
+        "position": "Sub",
+        "h_team": "Arsenal",
+        "a_team": "Leeds",
+        "h_goals": "4",
+        "a_goals": "2",
+        "date": "2021-02-14",
+        "id": "14665",
+        "season": "2020",
+        "roster_id": "449812",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0.42923617362976074",
+        "xGBuildup": "0.42923617362976074"
+    }
+]

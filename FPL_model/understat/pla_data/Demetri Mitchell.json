@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "90",
+        "position": "DL",
+        "h_team": "Manchester United",
+        "a_team": "Crystal Palace",
+        "h_goals": "2",
+        "a_goals": "0",
+        "date": "2017-05-21",
+        "id": "3516",
+        "season": "2016",
+        "roster_id": "125306",
+        "xA": "0.05677740275859833",
+        "assists": "0",
+        "key_passes": "2",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0.1809992641210556",
+        "xGBuildup": "0.1809992641210556"
+    }
+]

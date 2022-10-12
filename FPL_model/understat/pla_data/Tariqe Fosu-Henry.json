@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.05358147621154785",
+        "time": "15",
+        "position": "Sub",
+        "h_team": "Leicester",
+        "a_team": "Brentford",
+        "h_goals": "2",
+        "a_goals": "1",
+        "date": "2022-03-20",
+        "id": "16668",
+        "season": "2021",
+        "roster_id": "521745",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.05358147621154785",
+        "xGChain": "0.05358147621154785",
+        "xGBuildup": "0"
+    }
+]

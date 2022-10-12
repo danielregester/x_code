@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "2",
+        "xG": "0.06972305476665497",
+        "time": "15",
+        "position": "Sub",
+        "h_team": "Burnley",
+        "a_team": "West Ham",
+        "h_goals": "2",
+        "a_goals": "0",
+        "date": "2018-12-30",
+        "id": "9395",
+        "season": "2018",
+        "roster_id": "291639",
+        "xA": "0.013910576701164246",
+        "assists": "0",
+        "key_passes": "1",
+        "npg": "0",
+        "npxG": "0.06972305476665497",
+        "xGChain": "0.08363363146781921",
+        "xGBuildup": "0"
+    }
+]

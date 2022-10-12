@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "22",
+        "position": "Sub",
+        "h_team": "Tottenham",
+        "a_team": "Leicester",
+        "h_goals": "3",
+        "a_goals": "1",
+        "date": "2022-05-01",
+        "id": "16719",
+        "season": "2021",
+        "roster_id": "531041",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0.01724202372133732",
+        "xGBuildup": "0.01724202372133732"
+    }
+]

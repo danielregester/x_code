@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.022447459399700165",
+        "time": "5",
+        "position": "Sub",
+        "h_team": "Middlesbrough",
+        "a_team": "Crystal Palace",
+        "h_goals": "1",
+        "a_goals": "2",
+        "date": "2016-09-10",
+        "id": "492",
+        "season": "2016",
+        "roster_id": "126132",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.022447459399700165",
+        "xGChain": "0.022447459399700165",
+        "xGBuildup": "0"
+    }
+]

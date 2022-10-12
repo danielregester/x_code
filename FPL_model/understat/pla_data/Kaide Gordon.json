@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.4911211431026459",
+        "time": "7",
+        "position": "Sub",
+        "h_team": "Liverpool",
+        "a_team": "Brentford",
+        "h_goals": "3",
+        "a_goals": "0",
+        "date": "2022-01-16",
+        "id": "16589",
+        "season": "2021",
+        "roster_id": "508479",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.4911211431026459",
+        "xGChain": "0.4911211431026459",
+        "xGBuildup": "0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "3",
+        "position": "Sub",
+        "h_team": "Leicester",
+        "a_team": "Tottenham",
+        "h_goals": "1",
+        "a_goals": "6",
+        "date": "2017-05-18",
+        "id": "3475",
+        "season": "2016",
+        "roster_id": "134237",
+        "xA": "0.0845537856221199",
+        "assists": "1",
+        "key_passes": "1",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0.2658766508102417",
+        "xGBuildup": "0.1813228577375412"
+    }
+]

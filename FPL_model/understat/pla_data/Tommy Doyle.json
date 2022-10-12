@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.07760051637887955",
+        "time": "13",
+        "position": "Sub",
+        "h_team": "Manchester City",
+        "a_team": "Newcastle United",
+        "h_goals": "5",
+        "a_goals": "0",
+        "date": "2020-07-08",
+        "id": "11979",
+        "season": "2019",
+        "roster_id": "406580",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.07760051637887955",
+        "xGChain": "0.07760051637887955",
+        "xGBuildup": "0"
+    }
+]

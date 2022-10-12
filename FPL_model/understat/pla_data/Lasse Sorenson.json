@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "78",
+        "position": "MC",
+        "h_team": "Swansea",
+        "a_team": "Stoke",
+        "h_goals": "1",
+        "a_goals": "2",
+        "date": "2018-05-13",
+        "id": "7491",
+        "season": "2017",
+        "roster_id": "240082",
+        "xA": "0.36800387501716614",
+        "assists": "1",
+        "key_passes": "2",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0.06694087386131287",
+        "xGBuildup": "0.04735318198800087"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "20",
+        "position": "Sub",
+        "h_team": "Brighton",
+        "a_team": "Burnley",
+        "h_goals": "0",
+        "a_goals": "3",
+        "date": "2022-02-19",
+        "id": "16628",
+        "season": "2021",
+        "roster_id": "514188",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0.02161894552409649",
+        "xGBuildup": "0.02161894552409649"
+    }
+]

@@ -1,0 +1,8 @@
+# yaml file to define key params for getting data from understat
+# possible this iwll be moved to the higer level to also be used for the FPL stats if there is 
+# good compatibiltiy between them
+
+years: [2016, 2017, 2018, 2019, 2020, 2021, 2022]
+
+path_FPLdata: "/Users/regesterdaniel/x_code/FPL_model/Fantasy-Premier-League/data"
+path_understat: "/Users/regesterdaniel/x_code/FPL_model/understat/pla_data"

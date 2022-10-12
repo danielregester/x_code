@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.26678651571273804",
+        "time": "10",
+        "position": "Sub",
+        "h_team": "Arsenal",
+        "a_team": "Everton",
+        "h_goals": "5",
+        "a_goals": "1",
+        "date": "2022-05-22",
+        "id": "16746",
+        "season": "2021",
+        "roster_id": "537853",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.26678651571273804",
+        "xGChain": "0.26678651571273804",
+        "xGBuildup": "0"
+    }
+]

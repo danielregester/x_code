@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "1",
+        "xG": "0.11410751938819885",
+        "time": "1",
+        "position": "Sub",
+        "h_team": "Nottingham Forest",
+        "a_team": "Tottenham",
+        "h_goals": "0",
+        "a_goals": "2",
+        "date": "2022-08-28",
+        "id": "18241",
+        "season": "2022",
+        "roster_id": "545415",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0.11410751938819885",
+        "xGChain": "0.11410751938819885",
+        "xGBuildup": "0"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "goals": "0",
+        "shots": "0",
+        "xG": "0",
+        "time": "1",
+        "position": "Sub",
+        "h_team": "Brighton",
+        "a_team": "Leeds",
+        "h_goals": "1",
+        "a_goals": "0",
+        "date": "2022-08-27",
+        "id": "18234",
+        "season": "2022",
+        "roster_id": "544409",
+        "xA": "0",
+        "assists": "0",
+        "key_passes": "0",
+        "npg": "0",
+        "npxG": "0",
+        "xGChain": "0",
+        "xGBuildup": "0"
+    }
+]
